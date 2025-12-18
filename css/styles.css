@@ -242,7 +242,7 @@ footer {background-color: var(--navy-blue);
 }
 footer .logo-studio {color: var(--cloud);}
 .footer-text {
-    font-weight: 400;
+    font-weight: 700;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
