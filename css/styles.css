@@ -242,7 +242,7 @@ body h2 {text-align: center;}
 }
 /* -------------FOOTER------------------- */
 footer {background-color: var(--navy-blue);
-        padding: 100px 0;
+    padding: 100px 0;
 }
 footer .logo-studio {color: var(--cloud);}
 .footer-text {
