@@ -48,6 +48,9 @@ img {
     max-width: 100%;
     height: auto;
 }
+button {
+    border: none;
+}
 
 /* ----------------COMMON STYLES---------------- */
 .container {
@@ -158,7 +161,6 @@ body h2 {text-align: center;}
     cursor: pointer;
     background-color: var(--iris);
     display: block;
-    margin-top: 48px;
     margin-left: auto;
     margin-right: auto;
     padding: 16px 32px;
@@ -252,5 +254,6 @@ footer .logo-studio {color: var(--cloud);}
     max-width: 264px;
 }
 footer .logo {
-    margin-bottom: 16px;
+    margin: 0 0 16px 0;
+    padding: 0; 
     }
